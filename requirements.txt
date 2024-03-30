@@ -1,0 +1,7 @@
+datasets
+transformers
+tensorflow
+tf-keras
+matplotlib
+scikit-learn
+torchsummary
